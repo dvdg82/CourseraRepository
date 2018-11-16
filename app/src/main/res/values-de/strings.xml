@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeProyect</string>
+    <string name="titulo_app">Willkommen</string>
+    <string name="button_ingreso">Betreten</string>
+</resources>
