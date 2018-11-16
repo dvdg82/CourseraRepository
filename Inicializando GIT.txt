@@ -1,0 +1,26 @@
+INICIALIZAR GIT CMD
+git config --global user.name "dvdg82"
+git config --global user.email dvdg82@gmail.com
+git config --list
+git remote -v
+
+0. git config --global user.email dvdg82@gmail.com
+1. IR A LA CARPETA DEL PROYECTO
+2. git init
+3. git add -A
+4. git status
+5. git commit -m "version 1"
+6. Copiar la url donde se creo el branch en la pagina de github  https://github.com/dvdg82/CourseraRepository
+7. git remote add origin https://github.com/dvdg82/CourseraRepository
+8. git pull --rebase origin master
+9. git push origin master
+
+AGREGAR CAMBIO
+se modifican cosas , cambios
+
+A LA RAMA
+crear rama primero: git branch ProyectoPrimero
+
+git remote add proyect https://github.com/dvdg82/CourseraRepository/tree/ProyectoPrimero
+git pull --rebase origin ProyectoPrimero
+git pull --rebase origin ProyectoPrimero
